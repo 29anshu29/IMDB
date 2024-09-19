@@ -1,0 +1,426 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/tncbMvfV0V07UZozXdBEq4Wu9HH.jpg",
+            "id": 573435,
+            "title": "Bad Boys: Ride or Die",
+            "original_title": "Bad Boys: Ride or Die",
+            "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "poster_path": "/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                35,
+                10749
+            ],
+            "popularity": 4352.387,
+            "release_date": "2024-06-05",
+            "video": false,
+            "vote_average": 7.456,
+            "vote_count": 816
+        },
+        {
+            "backdrop_path": "/dvBCdCohwWbsP5qAaglOXagDMtk.jpg",
+            "id": 533535,
+            "title": "Deadpool \u0026 Wolverine",
+            "original_title": "Deadpool \u0026 Wolverine",
+            "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+            "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                35
+            ],
+            "popularity": 2178.995,
+            "release_date": "2024-07-24",
+            "video": false,
+            "vote_average": 8.155,
+            "vote_count": 129
+        },
+        {
+            "backdrop_path": "/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg",
+            "id": 718821,
+            "title": "Twisters",
+            "original_title": "Twisters",
+            "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+            "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                18
+            ],
+            "popularity": 580.334,
+            "release_date": "2024-07-10",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 216
+        },
+        {
+            "backdrop_path": "/xg27NrXi7VXCGUr7MG75UqLl6Vg.jpg",
+            "id": 1022789,
+            "title": "Inside Out 2",
+            "original_title": "Inside Out 2",
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+            "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                35
+            ],
+            "popularity": 4645.667,
+            "release_date": "2024-06-11",
+            "video": false,
+            "vote_average": 7.646,
+            "vote_count": 2058
+        },
+        {
+            "backdrop_path": "/iIvjwrDPQHCU4NjbbKpNs88uk6G.jpg",
+            "id": 1048241,
+            "title": "My Spy The Eternal City",
+            "original_title": "My Spy The Eternal City",
+            "overview": "JJ, a veteran CIA agent, reunites with his protégé Sophie, in order to prevent a catastrophic nuclear plot targeting the Vatican.",
+            "poster_path": "/Bf3vCfM94bSJ1saZlyi0UW0e0U.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 1054.864,
+            "release_date": "2024-07-18",
+            "video": false,
+            "vote_average": 6.832,
+            "vote_count": 122
+        },
+        {
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "id": 746036,
+            "title": "The Fall Guy",
+            "original_title": "The Fall Guy",
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "popularity": 500.396,
+            "release_date": "2024-04-24",
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 1628
+        },
+        {
+            "backdrop_path": "/6HpRZeA0JdY5fRgl89KKExsvvwR.jpg",
+            "id": 774531,
+            "title": "Young Woman and the Sea",
+            "original_title": "Young Woman and the Sea",
+            "overview": "This is the extraordinary true story of Trudy Ederle, the first woman to successfully swim the English Channel. Through the steadfast support of her older sister and supportive trainers, she overcame adversity and the animosity of a patriarchal society to rise through the ranks of the Olympic swimming team and complete the 21-mile trek from France to England.",
+            "poster_path": "/bZlecCuBVvKuarNGvchBwaOsQ3c.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                36,
+                18
+            ],
+            "popularity": 189.553,
+            "release_date": "2024-05-31",
+            "video": false,
+            "vote_average": 7.783,
+            "vote_count": 83
+        },
+        {
+            "backdrop_path": "/wuANo81Kh2lEFlt0P3XwexUjVpP.jpg",
+            "id": 653346,
+            "title": "Kingdom of the Planet of the Apes",
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+            "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 1350.524,
+            "release_date": "2024-05-08",
+            "video": false,
+            "vote_average": 7.162,
+            "vote_count": 2055
+        },
+        {
+            "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+            "id": 293660,
+            "title": "Deadpool",
+            "original_title": "Deadpool",
+            "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+            "poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                35
+            ],
+            "popularity": 627.797,
+            "release_date": "2016-02-09",
+            "video": false,
+            "vote_average": 7.616,
+            "vote_count": 30217
+        },
+        {
+            "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+            "id": 383498,
+            "title": "Deadpool 2",
+            "original_title": "Deadpool 2",
+            "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+            "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                12
+            ],
+            "popularity": 476.809,
+            "release_date": "2018-05-10",
+            "video": false,
+            "vote_average": 7.491,
+            "vote_count": 17299
+        },
+        {
+            "backdrop_path": "/fDmci71SMkfZM8RnCuXJVDPaSdE.jpg",
+            "id": 519182,
+            "title": "Despicable Me 4",
+            "original_title": "Despicable Me 4",
+            "overview": "Gru and Lucy and their girls — Margo, Edith and Agnes — welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Meanwhile, Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+            "poster_path": "/3w84hCFJATpiCO5g8hpdWVPBbmq.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                28
+            ],
+            "popularity": 3517.779,
+            "release_date": "2024-06-20",
+            "video": false,
+            "vote_average": 7.216,
+            "vote_count": 396
+        },
+        {
+            "backdrop_path": "/okVLmXL5y18dfN2R4ufMZEGaeCd.jpg",
+            "id": 1160018,
+            "title": "Kill",
+            "original_title": "किल",
+            "overview": "When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on himself in a death-defying kill-spree to save those around him — turning what should have been a typical commute into an adrenaline-fueled thrill ride.",
+            "poster_path": "/52tSovUH1w9cp4gzGNThaT4pQW.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "hi",
+            "genre_ids": [
+                28,
+                12,
+                53
+            ],
+            "popularity": 54.876,
+            "release_date": "2024-07-04",
+            "video": false,
+            "vote_average": 6.952,
+            "vote_count": 21
+        },
+        {
+            "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+            "id": 786892,
+            "title": "Furiosa: A Mad Max Saga",
+            "original_title": "Furiosa: A Mad Max Saga",
+            "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 1539.513,
+            "release_date": "2024-05-22",
+            "video": false,
+            "vote_average": 7.649,
+            "vote_count": 2292
+        },
+        {
+            "backdrop_path": "/peE1ax04MnTQ9ChDryoDNF95r5.jpg",
+            "id": 1255350,
+            "title": "Find Me Falling",
+            "original_title": "Find Me Falling",
+            "overview": "After a failed comeback album, rock star John Allman escapes to a dreamy Mediterranean island, only to discover that his new cliffside home has an unfortunate notoriety that attracts unwanted visitors and an old flame.",
+            "poster_path": "/pMWpIPJgL4lYNKxSVMRDFWITeMW.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                10402
+            ],
+            "popularity": 410.399,
+            "release_date": "2024-07-19",
+            "video": false,
+            "vote_average": 6.346,
+            "vote_count": 39
+        },
+        {
+            "backdrop_path": "/Avtx5jsdPuDa091jvx2Lye3ygke.jpg",
+            "id": 1226578,
+            "title": "Longlegs",
+            "original_title": "Longlegs",
+            "overview": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
+            "poster_path": "/dLAP1apgFIoBoPNw4HJLVACSu7u.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                80,
+                27,
+                53
+            ],
+            "popularity": 219.551,
+            "release_date": "2024-07-10",
+            "video": false,
+            "vote_average": 6.809,
+            "vote_count": 139
+        },
+        {
+            "backdrop_path": "/8UOAYjhwSF3aPZhm6wgLuyHRyrR.jpg",
+            "id": 932086,
+            "title": "Horizon: An American Saga - Chapter 1",
+            "original_title": "Horizon: An American Saga - Chapter 1",
+            "overview": "Follow the story of how the Old West was won—and lost—through the blood, sweat and tears of many. Spanning 15 years before, during and following the Civil War from 1859 to 1874, embark on an emotional journey across a country at war with itself, experienced through the lens of families, friends and foes all attempting to discover what it truly means to be the United States of America.",
+            "poster_path": "/hqDkO0W9uk4aiwzn3pTeLO7NPZD.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "popularity": 375.908,
+            "release_date": "2024-06-26",
+            "video": false,
+            "vote_average": 7.028,
+            "vote_count": 125
+        },
+        {
+            "backdrop_path": "/qwhnq8pkFEAFXRwmscISOKK90Mu.jpg",
+            "id": 560016,
+            "title": "Monkey Man",
+            "original_title": "Monkey Man",
+            "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+            "poster_path": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 1072.379,
+            "release_date": "2024-04-03",
+            "video": false,
+            "vote_average": 7.055,
+            "vote_count": 631
+        },
+        {
+            "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+            "id": 929590,
+            "title": "Civil War",
+            "original_title": "Civil War",
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "popularity": 593.222,
+            "release_date": "2024-04-10",
+            "video": false,
+            "vote_average": 6.986,
+            "vote_count": 1969
+        },
+        {
+            "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+            "id": 693134,
+            "title": "Dune: Part Two",
+            "original_title": "Dune: Part Two",
+            "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            "poster_path": "/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "popularity": 351.622,
+            "release_date": "2024-02-27",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 4892
+        },
+        {
+            "backdrop_path": "/r4TxCaZvQ2bLFoXRLHGfii6b3tJ.jpg",
+            "id": 9737,
+            "title": "Bad Boys",
+            "original_title": "Bad Boys",
+            "overview": "Marcus Burnett is a henpecked family man. Mike Lowry is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other.",
+            "poster_path": "/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                35,
+                80,
+                53
+            ],
+            "popularity": 248.401,
+            "release_date": "1995-04-07",
+            "video": false,
+            "vote_average": 6.809,
+            "vote_count": 6169
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}
